@@ -1,0 +1,31 @@
+# .gitignore
+
+# MacOS .DS_Store files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Logs and databases
+*.log
+
+# Node package files
+node_modules/
+
+# IDE Project Settings - for example, JetBrains IDEs (like Intellij IDEA, WebStorm, etc.)
+.idea/
+
+# Environment variables
+.env
+
+# dist directory
+dist/
+
+# Ignore npm debug logs
+npm-debug.log*
+
+# Ignore Yarn integrity file
+.yarn-integrity
+
