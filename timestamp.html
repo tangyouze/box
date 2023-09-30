@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>时间戳转换器</title>
+  <style>
+    #container {
+      width: 100%;
+      max-width: 500px;
+      margin: auto;
+    }
+
+    .input-group {
+      margin-bottom: 20px;
+    }
+
+    button {
+      margin-left: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>时间戳转换器</h1>
+
+  <div id="container">
+    <div class="input-group">
+      <label for="timestamp">时间戳：</label>
+      <input type="number" id="timestamp">
+      <button onclick="convertToReadable()">转换到可读时间</button>
+    </div>
+
+    <div class="input-group">
+      <label for="readable-date">可读时间：</label>
+      <input type="text" id="readable-date">
+      <button onclick="convertToTimestamp()">转换到时间戳</button>
+    </div>
+  </div>
+
+  <a href="../index.html">返回主页</a>
+
+  <script>
+    function convertToReadable() {
+      const timestampInput = document.getElementById('timestamp').value;
+      const date = new Date(timestampInput * 1000);
+      document.getElementById('readable-date').value = date.toLocaleString();
+    }
+
+    function convertToTimestamp() {
+      const readableDateInput = document.getElementById('readable-date').value;
+      const date = new Date(readableDateInput);
+      document.getElementById('timestamp').value = Math.floor(date.getTime() / 1000);
+    }
+  </script>
+</body>
+</html>
