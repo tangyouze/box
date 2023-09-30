@@ -45,6 +45,17 @@ const fetchIp138 = () => fetch('https://2023.ip138.com/')
   })
   .catch(error => ({ name: 'Ip138', error }));
 
+
+  // chat.openai.com/cdn-cgi/trace
+
+  const fetchChatGPT = () => fetch('https://chat.openai.com/cdn-cgi/trace')
+  .then(response => response.text())
+  .then(html => {
+    const match = html.match(/\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b/);
+    return match ? { name: 'ChatGPT', ip: match[0] } : { name: 'ChatGPT', error: 'No IP found in response' };
+  })
+  .catch(error => ({ name: 'ChatGPT', error }));
+
 const ipListElement = document.getElementById('ip-list');
 const loadingElement = document.getElementById('loading');
 
@@ -58,7 +69,8 @@ window.onload = function() {
     fetchIpifyOrg(),
     fetchIpifyOrg64(),
     fetchIp138(),
-    fetchIpSbGeoip()
+    fetchIpSbGeoip(),
+    fetchChatGPT()
   ])
   .then(results => {
     // Hide loading indicator
