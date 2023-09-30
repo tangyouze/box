@@ -2,18 +2,20 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>IP 检查器</title>
+  <title>多源 IP 检查器</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>IP 检查器</h1>
+  <h1>多源 IP 检查器</h1>
+  
+  <div id="loading">加载中...</div>
 
-  <button id="fetch-ip">获取 IP 地址</button>
-
-  <div id="ip-address"></div>
+  <ul id="ip-list">
+    <!-- IP地址将在这里动态添加 -->
+  </ul>
 
   <a href="../index.html">返回主页</a>
-
+  
   <script src="script.js"></script>
 </body>
 </html>

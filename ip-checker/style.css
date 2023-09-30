@@ -1,5 +1,16 @@
-#ip-address {
-    font-size: 24px;
-    margin-top: 20px;
+#loading {
+    display: none; /* 初始状态下隐藏，JavaScript加载时显示 */
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .error:hover .error-detail {
+    display: block;
+  }
+  
+  .error-detail {
+    display: none;
   }
   
