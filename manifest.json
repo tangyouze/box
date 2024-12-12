@@ -1,0 +1,31 @@
+{
+  "_codemirror-9c85baa9.js": {
+    "file": "assets/codemirror-9c85baa9.js",
+    "imports": [
+      "_vendor-b983a8a7.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_vendor-b983a8a7.js": {
+    "file": "assets/vendor-b983a8a7.js"
+  },
+  "index.css": {
+    "file": "assets/index-5b10f11c.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "css": [
+      "assets/index-5b10f11c.css"
+    ],
+    "dynamicImports": [
+      "_codemirror-9c85baa9.js"
+    ],
+    "file": "assets/index-73e2d0bf.js",
+    "imports": [
+      "_vendor-b983a8a7.js",
+      "_codemirror-9c85baa9.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  }
+}
