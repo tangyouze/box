@@ -10,17 +10,17 @@
     "file": "assets/vendor-8542f800.js"
   },
   "index.css": {
-    "file": "assets/index-f3c76e9d.css",
+    "file": "assets/index-56a94cc4.css",
     "src": "index.css"
   },
   "index.html": {
     "css": [
-      "assets/index-f3c76e9d.css"
+      "assets/index-56a94cc4.css"
     ],
     "dynamicImports": [
       "_codemirror-12493226.js"
     ],
-    "file": "assets/index-2ebba1f7.js",
+    "file": "assets/index-7b443cb0.js",
     "imports": [
       "_vendor-8542f800.js",
       "_codemirror-12493226.js"
