@@ -2623,13 +2623,13 @@
   ],
   "src/router.js": [
   ],
-  "src/services/historyManager.ts": [
-  ],
   "src/services/playbackController.ts": [
   ],
   "src/services/speechSynthesis.ts": [
   ],
   "src/services/supabase.ts": [
+  ],
+  "src/services/textToVoiceKVStore.ts": [
   ],
   "src/services/yamlParser.ts": [
   ],
@@ -2645,7 +2645,7 @@
   ],
   "src/views/TextToVoice.vue?vue&type=script&setup=true&lang.ts": [
   ],
-  "src/views/TextToVoice.vue?vue&type=style&index=0&scoped=5bc35cb2&lang.css": [
+  "src/views/TextToVoice.vue?vue&type=style&index=0&scoped=cb6515c6&lang.css": [
   ],
   "src/views/Timestamp.vue": [
   ],
