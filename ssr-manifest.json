@@ -1,4 +1,24 @@
 {
+  "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/@supabase+node-fetch@2.6.15/node_modules/@supabase/node-fetch/browser.js?commonjs-proxy": [
+  ],
+  "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestBuilder.js?commonjs-exports": [
+  ],
+  "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestClient.js?commonjs-exports": [
+  ],
+  "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestError.js?commonjs-exports": [
+  ],
+  "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestFilterBuilder.js?commonjs-exports": [
+  ],
+  "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestQueryBuilder.js?commonjs-exports": [
+  ],
+  "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestTransformBuilder.js?commonjs-exports": [
+  ],
+  "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/constants.js?commonjs-exports": [
+  ],
+  "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/index.js?commonjs-exports": [
+  ],
+  "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/version.js?commonjs-exports": [
+  ],
   "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/dayjs.min.js?commonjs-module": [
   ],
   "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/advancedFormat.js?commonjs-module": [
@@ -12,6 +32,8 @@
   "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/isSameOrBefore.js?commonjs-module": [
   ],
   "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/localeData.js?commonjs-module": [
+  ],
+  "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/relativeTime.js?commonjs-module": [
   ],
   "\u0000/Users/tyz/private/box_source/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/timezone.js?commonjs-module": [
   ],
@@ -91,6 +113,110 @@
   "node_modules/.pnpm/@marijn+find-cluster-break@1.0.2/node_modules/@marijn/find-cluster-break/src/index.js": [
     "./assets/codemirror-57d2e4be.js"
   ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/AuthClient.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/GoTrueAdminApi.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/GoTrueClient.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/lib/base64url.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/lib/constants.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/lib/errors.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/lib/fetch.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/lib/helpers.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/lib/local-storage.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/lib/locks.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/lib/polyfills.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/lib/types.js": [
+  ],
+  "node_modules/.pnpm/@supabase+auth-js@2.71.1/node_modules/@supabase/auth-js/dist/module/lib/version.js": [
+  ],
+  "node_modules/.pnpm/@supabase+functions-js@2.4.5/node_modules/@supabase/functions-js/dist/module/FunctionsClient.js": [
+  ],
+  "node_modules/.pnpm/@supabase+functions-js@2.4.5/node_modules/@supabase/functions-js/dist/module/helper.js": [
+  ],
+  "node_modules/.pnpm/@supabase+functions-js@2.4.5/node_modules/@supabase/functions-js/dist/module/types.js": [
+  ],
+  "node_modules/.pnpm/@supabase+node-fetch@2.6.15/node_modules/@supabase/node-fetch/browser.js": [
+  ],
+  "node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestBuilder.js": [
+  ],
+  "node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestClient.js": [
+  ],
+  "node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestError.js": [
+  ],
+  "node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestFilterBuilder.js": [
+  ],
+  "node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestQueryBuilder.js": [
+  ],
+  "node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/PostgrestTransformBuilder.js": [
+  ],
+  "node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/constants.js": [
+  ],
+  "node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/index.js": [
+  ],
+  "node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/cjs/version.js": [
+  ],
+  "node_modules/.pnpm/@supabase+postgrest-js@1.19.4/node_modules/@supabase/postgrest-js/dist/esm/wrapper.mjs": [
+  ],
+  "node_modules/.pnpm/@supabase+realtime-js@2.15.0/node_modules/@supabase/realtime-js/dist/module/RealtimeChannel.js": [
+  ],
+  "node_modules/.pnpm/@supabase+realtime-js@2.15.0/node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js": [
+  ],
+  "node_modules/.pnpm/@supabase+realtime-js@2.15.0/node_modules/@supabase/realtime-js/dist/module/RealtimePresence.js": [
+  ],
+  "node_modules/.pnpm/@supabase+realtime-js@2.15.0/node_modules/@supabase/realtime-js/dist/module/lib/constants.js": [
+  ],
+  "node_modules/.pnpm/@supabase+realtime-js@2.15.0/node_modules/@supabase/realtime-js/dist/module/lib/push.js": [
+  ],
+  "node_modules/.pnpm/@supabase+realtime-js@2.15.0/node_modules/@supabase/realtime-js/dist/module/lib/serializer.js": [
+  ],
+  "node_modules/.pnpm/@supabase+realtime-js@2.15.0/node_modules/@supabase/realtime-js/dist/module/lib/timer.js": [
+  ],
+  "node_modules/.pnpm/@supabase+realtime-js@2.15.0/node_modules/@supabase/realtime-js/dist/module/lib/transformers.js": [
+  ],
+  "node_modules/.pnpm/@supabase+realtime-js@2.15.0/node_modules/@supabase/realtime-js/dist/module/lib/version.js": [
+  ],
+  "node_modules/.pnpm/@supabase+realtime-js@2.15.0/node_modules/@supabase/realtime-js/dist/module/lib/websocket-factory.js": [
+  ],
+  "node_modules/.pnpm/@supabase+storage-js@2.10.4/node_modules/@supabase/storage-js/dist/module/StorageClient.js": [
+  ],
+  "node_modules/.pnpm/@supabase+storage-js@2.10.4/node_modules/@supabase/storage-js/dist/module/lib/constants.js": [
+  ],
+  "node_modules/.pnpm/@supabase+storage-js@2.10.4/node_modules/@supabase/storage-js/dist/module/lib/errors.js": [
+  ],
+  "node_modules/.pnpm/@supabase+storage-js@2.10.4/node_modules/@supabase/storage-js/dist/module/lib/fetch.js": [
+  ],
+  "node_modules/.pnpm/@supabase+storage-js@2.10.4/node_modules/@supabase/storage-js/dist/module/lib/helpers.js": [
+  ],
+  "node_modules/.pnpm/@supabase+storage-js@2.10.4/node_modules/@supabase/storage-js/dist/module/lib/version.js": [
+  ],
+  "node_modules/.pnpm/@supabase+storage-js@2.10.4/node_modules/@supabase/storage-js/dist/module/packages/StorageBucketApi.js": [
+  ],
+  "node_modules/.pnpm/@supabase+storage-js@2.10.4/node_modules/@supabase/storage-js/dist/module/packages/StorageFileApi.js": [
+  ],
+  "node_modules/.pnpm/@supabase+supabase-js@2.54.0/node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js": [
+  ],
+  "node_modules/.pnpm/@supabase+supabase-js@2.54.0/node_modules/@supabase/supabase-js/dist/module/index.js": [
+  ],
+  "node_modules/.pnpm/@supabase+supabase-js@2.54.0/node_modules/@supabase/supabase-js/dist/module/lib/SupabaseAuthClient.js": [
+  ],
+  "node_modules/.pnpm/@supabase+supabase-js@2.54.0/node_modules/@supabase/supabase-js/dist/module/lib/constants.js": [
+  ],
+  "node_modules/.pnpm/@supabase+supabase-js@2.54.0/node_modules/@supabase/supabase-js/dist/module/lib/fetch.js": [
+  ],
+  "node_modules/.pnpm/@supabase+supabase-js@2.54.0/node_modules/@supabase/supabase-js/dist/module/lib/helpers.js": [
+  ],
+  "node_modules/.pnpm/@supabase+supabase-js@2.54.0/node_modules/@supabase/supabase-js/dist/module/lib/version.js": [
+  ],
   "node_modules/.pnpm/@sxzz+popperjs-es@2.11.7/node_modules/@sxzz/popperjs-es/dist/index.mjs": [
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.5.1/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
@@ -169,6 +295,8 @@
   "node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/isSameOrBefore.js": [
   ],
   "node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/localeData.js": [
+  ],
+  "node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/relativeTime.js": [
   ],
   "node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/timezone.js": [
   ],
@@ -2487,6 +2615,10 @@
   ],
   "src/components/Network.vue": [
   ],
+  "src/components/SupabaseAuth.vue": [
+  ],
+  "src/components/SupabaseAuth.vue?vue&type=style&index=0&scoped=4d4c2aeb&lang.css": [
+  ],
   "src/main.js": [
   ],
   "src/router.js": [
@@ -2497,7 +2629,13 @@
   ],
   "src/services/speechSynthesis.ts": [
   ],
+  "src/services/supabase.ts": [
+  ],
   "src/services/yamlParser.ts": [
+  ],
+  "src/views/DemoStore.vue": [
+  ],
+  "src/views/DemoStore.vue?vue&type=style&index=0&scoped=8d61298b&lang.css": [
   ],
   "src/views/Home.vue": [
   ],
