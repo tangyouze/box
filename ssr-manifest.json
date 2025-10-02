@@ -2633,6 +2633,8 @@
   ],
   "src/services/textToVoiceKVStore.ts": [
   ],
+  "src/services/wakeLockService.ts": [
+  ],
   "src/services/yamlParser.ts": [
   ],
   "src/views/DemoStore.vue": [
