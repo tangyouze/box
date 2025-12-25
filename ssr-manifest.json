@@ -2605,13 +2605,13 @@
   ],
   "src/App.vue": [
   ],
-  "src/App.vue?vue&type=style&index=0&scoped=26845d3a&lang.css": [
+  "src/App.vue?vue&type=style&index=0&scoped=a32e6836&lang.css": [
   ],
   "src/assets/main.css": [
   ],
   "src/components/MyIP.vue": [
   ],
-  "src/components/MyIP.vue?vue&type=style&index=0&scoped=c8169f3a&lang.css": [
+  "src/components/MyIP.vue?vue&type=style&index=0&scoped=024d843d&lang.css": [
   ],
   "src/components/Network.vue": [
   ],
@@ -2620,6 +2620,10 @@
   "src/components/SupabaseAuth.vue": [
   ],
   "src/components/SupabaseAuth.vue?vue&type=style&index=0&scoped=f8b9529a&lang.css": [
+  ],
+  "src/data/chineseLearningData.ts": [
+  ],
+  "src/data/phraseMap.json": [
   ],
   "src/main.js": [
   ],
@@ -2637,6 +2641,12 @@
   ],
   "src/services/yamlParser.ts": [
   ],
+  "src/views/ChineseLearning.vue": [
+  ],
+  "src/views/ChineseLearning.vue?vue&type=script&setup=true&lang.ts": [
+  ],
+  "src/views/ChineseLearning.vue?vue&type=style&index=0&scoped=db488cfb&lang.css": [
+  ],
   "src/views/DemoStore.vue": [
   ],
   "src/views/DemoStore.vue?vue&type=style&index=0&scoped=8ee7059d&lang.css": [
@@ -2649,7 +2659,7 @@
   ],
   "src/views/TextToVoice.vue?vue&type=script&setup=true&lang.ts": [
   ],
-  "src/views/TextToVoice.vue?vue&type=style&index=0&scoped=2f97af7a&lang.css": [
+  "src/views/TextToVoice.vue?vue&type=style&index=0&scoped=2fbaa71e&lang.css": [
   ],
   "src/views/Timestamp.vue": [
   ],
