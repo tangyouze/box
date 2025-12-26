@@ -2645,7 +2645,7 @@
   ],
   "src/views/ChineseLearning.vue?vue&type=script&setup=true&lang.ts": [
   ],
-  "src/views/ChineseLearning.vue?vue&type=style&index=0&scoped=dbca1bad&lang.css": [
+  "src/views/ChineseLearning.vue?vue&type=style&index=0&scoped=743fa067&lang.css": [
   ],
   "src/views/DemoStore.vue": [
   ],
@@ -2654,6 +2654,12 @@
   "src/views/Home.vue": [
   ],
   "src/views/Home.vue?vue&type=style&index=0&scoped=252eef20&lang.css": [
+  ],
+  "src/views/IdiomDebug.vue": [
+  ],
+  "src/views/IdiomDebug.vue?vue&type=script&setup=true&lang.ts": [
+  ],
+  "src/views/IdiomDebug.vue?vue&type=style&index=0&scoped=af753207&lang.css": [
   ],
   "src/views/TextToVoice.vue": [
   ],
