@@ -2541,7 +2541,7 @@
   ],
   "src/App.vue": [
   ],
-  "src/App.vue?vue&type=style&index=0&scoped=20b5bfbc&lang.css": [
+  "src/App.vue?vue&type=style&index=0&scoped=28ba9eff&lang.css": [
   ],
   "src/assets/main.css": [
   ],
@@ -2561,7 +2561,7 @@
   ],
   "src/components/voice-coach/CoachPlaybackView.vue?vue&type=script&setup=true&lang.ts": [
   ],
-  "src/components/voice-coach/CoachPlaybackView.vue?vue&type=style&index=0&scoped=63a30eed&lang.css": [
+  "src/components/voice-coach/CoachPlaybackView.vue?vue&type=style&index=0&scoped=407e34f8&lang.css": [
   ],
   "src/data/chineseLearningData.ts": [
   ],
@@ -2593,6 +2593,12 @@
   ],
   "src/views/ChineseLearning.vue?vue&type=style&index=0&scoped=129da382&lang.css": [
   ],
+  "src/views/Debug.vue": [
+  ],
+  "src/views/Debug.vue?vue&type=script&setup=true&lang.ts": [
+  ],
+  "src/views/Debug.vue?vue&type=style&index=0&scoped=e49c7220&lang.css": [
+  ],
   "src/views/DemoStore.vue": [
   ],
   "src/views/DemoStore.vue?vue&type=style&index=0&scoped=8ee7059d&lang.css": [
@@ -2621,6 +2627,6 @@
   ],
   "src/views/VoiceCoach.vue?vue&type=script&setup=true&lang.ts": [
   ],
-  "src/views/VoiceCoach.vue?vue&type=style&index=0&scoped=0938122e&lang.css": [
+  "src/views/VoiceCoach.vue?vue&type=style&index=0&scoped=75706ef7&lang.css": [
   ]
 }
