@@ -2646,6 +2646,8 @@
   ],
   "src/data/phraseMap.json": [
   ],
+  "src/data/pronunciationData.ts": [
+  ],
   "src/main.js": [
   ],
   "src/router.js": [
@@ -2681,6 +2683,12 @@
   "src/views/IdiomDebug.vue?vue&type=script&setup=true&lang.ts": [
   ],
   "src/views/IdiomDebug.vue?vue&type=style&index=0&scoped=af753207&lang.css": [
+  ],
+  "src/views/PronunciationPractice.vue": [
+  ],
+  "src/views/PronunciationPractice.vue?vue&type=script&setup=true&lang.ts": [
+  ],
+  "src/views/PronunciationPractice.vue?vue&type=style&index=0&scoped=43494f27&lang.css": [
   ],
   "src/views/TextToVoice.vue": [
   ],
