@@ -2557,7 +2557,11 @@
   ],
   "src/components/SupabaseAuth.vue?vue&type=style&index=0&scoped=f8b9529a&lang.css": [
   ],
+  "src/components/voice-coach/CoachPlaybackView.vue": [
+  ],
   "src/components/voice-coach/CoachPlaybackView.vue?vue&type=script&setup=true&lang.ts": [
+  ],
+  "src/components/voice-coach/CoachPlaybackView.vue?vue&type=style&index=0&scoped=e0569e0a&lang.css": [
   ],
   "src/data/chineseLearningData.ts": [
   ],
@@ -2617,6 +2621,6 @@
   ],
   "src/views/VoiceCoach.vue?vue&type=script&setup=true&lang.ts": [
   ],
-  "src/views/VoiceCoach.vue?vue&type=style&index=0&scoped=a7af13d6&lang.css": [
+  "src/views/VoiceCoach.vue?vue&type=style&index=0&scoped=8280b2ac&lang.css": [
   ]
 }
