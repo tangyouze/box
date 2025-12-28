@@ -3,14 +3,14 @@
     "file": "assets/vendor-2a981536.js"
   },
   "index.css": {
-    "file": "assets/index-9b7156de.css",
+    "file": "assets/index-190e0e4e.css",
     "src": "index.css"
   },
   "index.html": {
     "css": [
-      "assets/index-9b7156de.css"
+      "assets/index-190e0e4e.css"
     ],
-    "file": "assets/index-27cca902.js",
+    "file": "assets/index-d9da76a1.js",
     "imports": [
       "_vendor-2a981536.js"
     ],
