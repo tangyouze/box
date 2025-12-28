@@ -1,29 +1,18 @@
 {
-  "_codemirror-fd34e341.js": {
-    "file": "assets/codemirror-fd34e341.js",
-    "imports": [
-      "_vendor-a48f1934.js"
-    ],
-    "isDynamicEntry": true
-  },
-  "_vendor-a48f1934.js": {
-    "file": "assets/vendor-a48f1934.js"
+  "_vendor-2a981536.js": {
+    "file": "assets/vendor-2a981536.js"
   },
   "index.css": {
-    "file": "assets/index-1142744d.css",
+    "file": "assets/index-ba24b572.css",
     "src": "index.css"
   },
   "index.html": {
     "css": [
-      "assets/index-1142744d.css"
+      "assets/index-ba24b572.css"
     ],
-    "dynamicImports": [
-      "_codemirror-fd34e341.js"
-    ],
-    "file": "assets/index-6d27a336.js",
+    "file": "assets/index-600e3cde.js",
     "imports": [
-      "_vendor-a48f1934.js",
-      "_codemirror-fd34e341.js"
+      "_vendor-2a981536.js"
     ],
     "isEntry": true,
     "src": "index.html"
