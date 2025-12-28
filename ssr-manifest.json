@@ -2561,7 +2561,7 @@
   ],
   "src/components/voice-coach/CoachPlaybackView.vue?vue&type=script&setup=true&lang.ts": [
   ],
-  "src/components/voice-coach/CoachPlaybackView.vue?vue&type=style&index=0&scoped=e0569e0a&lang.css": [
+  "src/components/voice-coach/CoachPlaybackView.vue?vue&type=style&index=0&scoped=63a30eed&lang.css": [
   ],
   "src/data/chineseLearningData.ts": [
   ],
@@ -2621,6 +2621,6 @@
   ],
   "src/views/VoiceCoach.vue?vue&type=script&setup=true&lang.ts": [
   ],
-  "src/views/VoiceCoach.vue?vue&type=style&index=0&scoped=8280b2ac&lang.css": [
+  "src/views/VoiceCoach.vue?vue&type=style&index=0&scoped=0938122e&lang.css": [
   ]
 }
