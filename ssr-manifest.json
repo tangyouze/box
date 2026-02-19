@@ -2573,6 +2573,8 @@
   ],
   "src/router.js": [
   ],
+  "src/services/learningRecords.ts": [
+  ],
   "src/services/playbackController.ts": [
   ],
   "src/services/practiceLogStore.ts": [
@@ -2591,7 +2593,7 @@
   ],
   "src/views/ChineseLearning.vue?vue&type=script&setup=true&lang.ts": [
   ],
-  "src/views/ChineseLearning.vue?vue&type=style&index=0&scoped=9c0ddf30&lang.css": [
+  "src/views/ChineseLearning.vue?vue&type=style&index=0&scoped=84904efb&lang.css": [
   ],
   "src/views/Debug.vue": [
   ],
